@@ -2,7 +2,7 @@
 a experimental PS Vita emulator on the Scratch project 
 # what is it?
 SKYSTRAKE is an experimental PS Vita emulator which is the base itself was on Scratch. it is licensed on Apache Public License 2.0
-which it is the best way to play PS Vita on Scratcg
+which it is the best way to play PS Vita on Scratch
 # which things you can do?
 you can do such things as =
 - install games to the PS Store app
