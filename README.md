@@ -16,5 +16,16 @@ and many more!
 - add support to homebrew stuff
 - added story mode with 4 diffrent chapters
 and many more!
+# games that is compatible
+- the Scratch's wayback machine (its the first game whos actually compatible with SKYSTRAKE lol) =
+* version that is supported =
+* version 1.0 (the first release of the game)
+* broken versions =
+* every single version that will be released in the future
+and
+- chhockkingg daddhiy (its the last game who is supported with SKYSTRAKE) =
+* version that is supported =
+* version 0.4 beta (its still broken with only having 4 recipes loaded)
+  
 # thanks!
 thanks to everyone who was play this game!
