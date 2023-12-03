@@ -19,7 +19,10 @@ and many more!
 # games that is compatible
 - Snipeman (the first and only game that is actually playable) =
 * version that is supported =
-* version 0.4 beta (bugs a lot at the main menu and broken parts on character's polygon)
+* version 0.4 beta
+- problems on the game =
+- no music added and only GFX working
+- some bug at the Time Counter (cannot load properly)
   
 # thanks!
 thanks to everyone who was play this game!
